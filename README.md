@@ -7,6 +7,8 @@
 
 [positivity](https://www.uspacenetwork.com/wp-content/uploads/2015/12/Keep-Customers-Satisfied.jpg "positivity")
 
+[![thumbs up!!!](https://www.uspacenetwork.com/wp-content/uploads/2015/12/Keep-Customers-Satisfied.jpg)]
+
 | I             | Like          | Tables|
 | ------------- |:-------------:| -----:|
 | what          | doing         | ~fun~ |
